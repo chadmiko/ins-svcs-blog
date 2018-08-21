@@ -1,2 +1,7 @@
-# ins-svcs-blog
-Blog posts repo
+# ins-svcs-content
+
+Repo to hold:
+
+* Articles
+* Images
+* *and more...*
